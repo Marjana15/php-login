@@ -1,1 +1,1 @@
-https://github.com/Marjana15/php-login/blob/main/Screenshot%202024-07-13%20230405.png
+![Login Image](https://i.postimg.cc/fb72hGKD/Screenshot-2024-07-13-230405.png)
